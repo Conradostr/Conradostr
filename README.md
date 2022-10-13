@@ -1,6 +1,6 @@
 ### Olá eu sou o Caio Conrado 👋
 
-## Atualmente curso Gestão de TI pela UniFG
+## Atualmente estou cursando Gestão de TI pela UniFG
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
