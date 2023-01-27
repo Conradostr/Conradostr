@@ -1,6 +1,6 @@
 ### Olá eu sou o Caio Conrado 👋
 
-## Atualmente estou cursando Gestão de TI pela UniFG
+## Atualmente estou no programa Explorer da Rocketseat🚀.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
